@@ -12,4 +12,6 @@ Building true AI and personal knowledge at the same time. Should be fun.
 - Files: 03-question-answering-model.zip
 - PDF Presentation: 03-question-answering-model.pdf
 4. Speech-to-text transcription
-5. Chatbots
+- Files: 04-deepgram-transcription-service.zip
+- PDF Presentation: 04-deepgram-transcription-service.pdf
+6. Chatbots

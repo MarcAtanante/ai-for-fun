@@ -14,4 +14,4 @@ Building true AI and personal knowledge at the same time. Should be fun.
 4. Speech-to-text transcription
 - Files: 04-deepgram-transcription-service.zip
 - PDF Presentation: 04-deepgram-transcription-service.pdf
-6. Chatbots
+5. Chatbots

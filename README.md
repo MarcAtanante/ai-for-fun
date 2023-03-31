@@ -15,3 +15,5 @@ Building true AI and personal knowledge at the same time. Should be fun.
 - Files: 04-deepgram-transcription-service.zip
 - PDF Presentation: 04-deepgram-transcription-service.pdf
 5. Chatbots
+- Files: 05-dialogflow-chatbot.zip
+- PDF Presentation: 05-dialogflow-chatbot.pdf

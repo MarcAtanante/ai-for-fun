@@ -1,7 +1,7 @@
 # ai-for-fun
 Building true AI and personal knowledge at the same time. Should be fun.
 
-## List of Target Projects:
+## List of Projects:
 1. Text Classification
 - 01a-text-classification-glue.ipynb
 - 01b-finetuning-distilbert-banking77.ipynb
